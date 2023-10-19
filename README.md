@@ -129,7 +129,7 @@ Service for viewing and purchasing tickets
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">SerialSfera</h3>
+  <h3 align="center">BILET>KG</h3>
 
   <p align="center">
     Readme сервис для просмотра и покупки билетов
